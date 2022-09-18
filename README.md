@@ -1,2 +1,2 @@
-# Sentiment-Analysis
-In this project I tried to analyse comments and feedbacks on an online prodect to determine the degree of satisfactions of the clients 
+# Sentiment-Analysis 
+Using machine learning algorithms I tried to predict the sentiment in a sentence ,This project was an application of NLP techniques .
